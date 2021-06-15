@@ -2,7 +2,7 @@
 
 The dataset has been taken from https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city
 
-For this analysis, we will be focusing on Uber pickups throughout New York City for the month of July 2014. The following variables are available for each pickup:
+For this analysis, we will be focusing on Uber pickups throughout New York City only for the month of July 2014. The following variables are available for each pickup:
 
 
 Date/Time: The Date and Time of the Uber pickup
